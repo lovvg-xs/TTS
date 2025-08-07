@@ -16,4 +16,4 @@
 // Please change these default values.
 // Vui lòng thay đổi các giá trị mặc định này.
 export const USERNAME = 'admin';
-export const PASSWORD = 'password';
+export const PASSWORD = 'Youtube@2025';
