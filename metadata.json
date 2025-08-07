@@ -1,0 +1,6 @@
+{
+  "name": "Advanced Text-to-Speech",
+  "description": "An advanced Text-to-Speech tool with a modern interface, supporting both ElevenLabs and Gemini for high-quality audio generation, featuring intelligent API key management and text processing.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
