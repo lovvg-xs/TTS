@@ -1,5 +1,5 @@
 
-export const API_CHUNK_LIMIT = 2500; // Increased limit for ElevenLabs v2
+export const API_CHUNK_LIMIT = 9000; // Increased limit for ElevenLabs v2
 export const API_CALL_DELAY_MS = 500; // Reduced delay
 
 export const GEMINI_RPM_LIMIT = 3; // Not directly enforced in this client-side simulation, but good to have
